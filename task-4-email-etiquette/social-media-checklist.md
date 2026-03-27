@@ -1,6 +1,6 @@
 # ✅ Social Media Do’s and Don’ts
 
-✔️ Do’s
+# ✔️ Do’s
 
 - Maintain a professional online profile
 - Think before posting
